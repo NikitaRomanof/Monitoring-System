@@ -36,5 +36,3 @@ Follow these steps to install the System-Monitoring application:
 3. Run the application:
    cargo run
 
-## Usage
-
